@@ -3,7 +3,7 @@ Note App is a simple Flutter application that allows users to create, view, edit
 
 The requriement.txt file contains the requriement packages for flutter and the docs.md conatins the overall description of applications
 
-Therr is screenshot file in screenshot foler apk sample in apk folder
+There is screenshot file in screenshot folder and  apk sample in apk folder
 
 Table of Contents
 Features
